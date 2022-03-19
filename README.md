@@ -2,6 +2,15 @@
 project on IT
 # basic Sheet
 HIII.. My name is anuj pandey ##
+<html>
+<head>
+<title> g set up </title>
+</head>
+<body>
+<th> the rows and columns are sequencual equation </th>
+the collaps and termination of each sets are collab of terminology and algorothem
+</body>
+</html>
 This sheet provides a quick overview of all the syntax elements. It can’t cover every edge case, but it will help you to get some basic knowledge.
 
 ## Basic Syntanx
